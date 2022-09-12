@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"spgoding.datapack-language-server",
+		"chencmd.mc-datapack-utility",
+		"ms-ceintl.vscode-language-pack-ja",
+		"seatonjiang.gitmoji-vscode",
+		"arcensoth.language-mcfunction"
+	],
+	"unwantedRecommendations": []
+}
